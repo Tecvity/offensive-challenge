@@ -23,4 +23,4 @@ INSERT INTO `employees` VALUES (4,'Javier P. Garcia','R Doutor Alfredo\r\n7940-1
 INSERT INTO `employees` VALUES (5,'Andrea Wurfel','R Patrão Caramelho 62\r\n4485-089 FAJOZES',3317);
 INSERT INTO `employees` VALUES (6,'Melanie Bergmann','R Padre António Vieira 60\r\n8600-166 LUZ',1022);
 
-INSERT INTO `flag` VALUES ('327a6c4304ad5938eaf0efb6cc3e53dc');
+INSERT INTO `flag` VALUES ('OTVjNjFjYzMwYmQyNmZiZTUwZDU2ODIxY2MxNDI1NjU5ZDZhNzhiNw==');
